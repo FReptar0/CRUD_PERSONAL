@@ -12,5 +12,5 @@
     <li>En la etiqueta 'dependencies' ubicar la etiqueta 'dependecy' que contenga la etiqueda 'groupId' con valor 'mysql' y modificar la etiqueta 'version' con la version que se tenga en el sistema</li>
   </ul>
   
-  #IMPORTANTE
+# IMPORTANTE
   <p>Cambiar la contrase&ntilde;a del archivo <a href="https://github.com/FReptar0/CRUD_PERSONAL/blob/master/src/main/java/Config/Conexion.java">Conexi&oacute;n</a>, es el espacio en blanco posterior a <q>root</q></p>
