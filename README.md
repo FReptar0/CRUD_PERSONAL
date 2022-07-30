@@ -13,4 +13,4 @@
   </ul>
   
   <h1 style="text-align:center;"> IMPORTANTE </h1>
-  <p>Cambiar la contrase&ntilde;a del archivo <a href="https://github.com/FReptar0/CRUD_PERSONAL/blob/master/src/main/java/Config/Conexion.java">Conexi&oacute;n</a></p>
+  <p>Cambiar la contrase&ntilde;a del archivo <a href="https://github.com/FReptar0/CRUD_PERSONAL/blob/master/src/main/java/Config/Conexion.java">Conexi&oacute;n</a>, es el espacio en blanco posterior a <q>root</q></p>
